@@ -1,0 +1,4 @@
+com\example\medicinereminder\MedicineReminderApplication.class
+com\example\medicinereminder\model\MedicineReminder.class
+com\example\medicinereminder\repository\MedicineReminderRepository.class
+com\example\medicinereminder\controller\MedicineReminderController.class
